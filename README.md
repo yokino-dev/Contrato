@@ -19,9 +19,6 @@ O **Contrato** é uma ferramenta desenvolvida para automatizar o fluxo de criaç
 ##  Funcionalidades Principais
 
 - [x] **Templates Dinâmicos:** Variáveis que preenchem dados automaticamente.
-- [x] **Exportação Multiformato:** Suporte para PDF, Markdown e HTML.
-- [x] **Assinatura Digital:** Integração facilitada com provedores de assinatura.
-- [x] **Histórico de Versões:** Rastreamento completo de quem alterou o quê.
 
 ##  Tecnologias
 
@@ -32,7 +29,7 @@ O **Contrato** é uma ferramenta desenvolvida para automatizar o fluxo de criaç
     <td align="center"><b>Ferramentas</b></td>
   </tr>
   <tr>
-    <td>TypeScript / Node.js</td>
+    <td>Python</td>
     <td>Docker / AWS</td>
     <td>Jest / Prettier</td>
   </tr>
