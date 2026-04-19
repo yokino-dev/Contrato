@@ -38,8 +38,6 @@ O **Contrato** é uma ferramenta desenvolvida para automatizar o fluxo de criaç
 ##  Estrutura de Pastas
 
 ```bash
-.
-├── 📁 bin/         # Executáveis e scripts de automação
-├── 📁 src/         # Núcleo do código fonte
-├── 📁 templates/   # Modelos .md e .html para contratos
-└── 📄 README.md    # Documentação principal
+
+├── 📄  main.py   
+└── 📄 README.md    
